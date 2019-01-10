@@ -1,0 +1,11 @@
+允许任何来源的应用
+sudo spctl --master-disable
+
+查看磁盘分区表
+diskutil list
+挂载
+diskutil mount
+
+打开Finder
+open .
+
